@@ -35,9 +35,9 @@ int maxSubarraySum(int arr[], int n){
 
 int main()
 {
-    int t,n;
+    int test,n;
     
-    cin>>t; //input testcases
+    cin>>test; //input testcases
     while(t--) //while testcases exist
     {
         
