@@ -38,7 +38,7 @@ int main()
     int test,n;
     
     cin>>test; //input testcases
-    while(t--) //while testcases exist
+    while(test--) //while testcases exist
     {
         
         cin>>n; //input size of array
